@@ -9,8 +9,12 @@ public class App {
         // String url = "https://api.mocki.io/v2/549a5d8b/Top250Movies";
         // ExtratorDeConteudo extrator = new ExtratorDeConteudoDoIMDB();
 
-        String url = "https://api.nasa.gov/planetary/apod?api_key=0YZH2VrbLunXPvWfcQolI5xj3IpY6QtgIwd8nNx7";
-        ExtratorDeConteudo extrator = new ExtratorDeConteudoDaNasa();
+        // String url =
+        // "https://api.nasa.gov/planetary/apod?api_key=0YZH2VrbLunXPvWfcQolI5xj3IpY6QtgIwd8nNx7";
+        // ExtratorDeConteudo extrator = new ExtratorDeConteudoDaNasa();
+
+        String url = "http://localhost:8080/linguagens";
+        ExtratorDeConteudo extrator = new ExtratorDeConteudoDoIMDB();
 
         var http = new ClienteHttp();
         String json = http.buscaDados(url);
