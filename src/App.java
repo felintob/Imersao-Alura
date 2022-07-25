@@ -13,7 +13,7 @@ public class App {
         // "https://api.nasa.gov/planetary/apod?api_key=0YZH2VrbLunXPvWfcQolI5xj3IpY6QtgIwd8nNx7";
         // ExtratorDeConteudo extrator = new ExtratorDeConteudoDaNasa();
 
-        String url = "http://localhost:8080/linguagens";
+        String url = " https://abruno-linguagens-api.herokuapp.com/linguagens";
         ExtratorDeConteudo extrator = new ExtratorDeConteudoDoIMDB();
 
         var http = new ClienteHttp();
