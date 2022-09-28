@@ -15,7 +15,7 @@ Projeto desenvolvido pela Alura em sua Imersão Java. Consiste em um programa qu
 - Construir a própria API e fazer o deploy na nuvem.
 
 
-## 💻 Tecnologias Utilizizadas
+## 💻 Tecnologias Utilizadas
 - Java
 - Spring Framework
 - MongoDb
