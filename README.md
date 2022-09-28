@@ -6,7 +6,7 @@
 ![Badge de licensa](https://img.shields.io/badge/license-public-blue)
 ![Badge de status](https://img.shields.io/badge/status-finished-green)
 
-Projeto desenvolvido pela Alura em sua Imersão Java. Consiste em um programa que consome api's extraindo inormações e assim gerando figurinhas personalizadas com imagens para serem transmitidas via whatsapp. Também foi adicionado ao projeto uma api própria que foi colocada no ar utilizando spring framework, mongoDb e o heroku.
+Projeto desenvolvido pela Alura em sua Imersão Java. Consiste em um programa que consome api's extraindo informações e assim gerando figurinhas personalizadas com imagens para serem transmitidas via whatsapp. Também foi adicionado ao projeto uma api própria que foi colocada no ar utilizando spring framework, mongoDb e o heroku.
 
 
 ## :hammer: Funcionalidades do Projeto
